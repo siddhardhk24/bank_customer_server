@@ -8,9 +8,6 @@ import (
 	"github.com/grpc_bank/bank_customer_config/config"
 	"github.com/grpc_bank/bank_customer_config/constants"
 	pro "github.com/grpc_bank/bank_customer_proto/netxd_customer"
-	"github.com/grpc_bank/bank_customer_server/controllers"
-
-	"github.com/grpc_bank/bank_customer_service/services"
 	"go.mongodb.org/mongo-driver/mongo"
 	"google.golang.org/grpc"
 )

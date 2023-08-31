@@ -2,10 +2,8 @@ package controllers
 
 import (
 	"context"
-	pro"github.com/grpc_bank/bank_customer_proto/netxd_customer"
 
-	"github.com/grpc_bank/bank_customer_service/interfaces"
-	"github.com/grpc_bank/bank_customer_service/models"
+	pro "github.com/grpc_bank/bank_customer_proto/netxd_customer"
 )
 
 type RPCServer struct {
