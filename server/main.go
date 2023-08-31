@@ -5,11 +5,10 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/grpc_bank/bank_customer_config/config"
-	"github.com/grpc_bank/bank_customer_config/constants"
-	pro "github.com/grpc_bank/bank_customer_proto/netxd_customer"
+	"github.com/siddhardhk24/bank_customer_server/controllers"
 	"go.mongodb.org/mongo-driver/mongo"
 	"google.golang.org/grpc"
+	// pro "github.com/grpc_bank/bank_customer_proto/netxd_customer"
 )
 
 func initDatabase(client *mongo.Client) {
