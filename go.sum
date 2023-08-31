@@ -12,6 +12,12 @@ github.com/klauspost/compress v1.13.6 h1:P76CopJELS0TiO2mebmnzgWaajssP/EszplttgQ
 github.com/klauspost/compress v1.13.6/go.mod h1:/3/Vjq9QcHkK5uEr5lBEmyoZ1iFhe47etQ6QUkpK6sk=
 github.com/montanaflynn/stats v0.0.0-20171201202039-1bf9dbcd8cbe h1:iruDEfMl2E6fbMZ9s0scYfZQ84/6SPL6zC8ACM2oIL0=
 github.com/montanaflynn/stats v0.0.0-20171201202039-1bf9dbcd8cbe/go.mod h1:wL8QJuTMNUDYhXwkmfOly8iTdp5TEcJFWZD2D7SIkUc=
+github.com/siddhardhk24/bank_customer_config v1.0.2 h1:Cr+CibgkCkVr4CQ8NXh5RvzoyHNeYvt7PJRMiqar/54=
+github.com/siddhardhk24/bank_customer_config v1.0.2/go.mod h1:u8Sd3U61oszmLZ9snk1sCltrNk6h/i8BabZawCckivc=
+github.com/siddhardhk24/bank_customer_proto v1.0.2 h1:XVnrLKReTRQYUaN8K0k3M/vgQAg+7QV8hnvLg2PKwtA=
+github.com/siddhardhk24/bank_customer_proto v1.0.2/go.mod h1:1H7gTQ54QS3kmAZhDJBtzv5ChkflpCUj9Yj7/Z1CNXw=
+github.com/siddhardhk24/bank_customer_service v1.0.1 h1:kk1CKv21jhY65L1zqFo0gpvOoChocR//nuGyBKSeHUs=
+github.com/siddhardhk24/bank_customer_service v1.0.1/go.mod h1:n5/Iazu9KKPVoVtxV8EgyrnY5Fw1U0UFwQv3PY9slLA=
 github.com/xdg-go/pbkdf2 v1.0.0 h1:Su7DPu48wXMwC3bs7MCNG+z4FhcyEuz5dlvchbq0B0c=
 github.com/xdg-go/pbkdf2 v1.0.0/go.mod h1:jrpuAogTd400dnrH08LKmI/xc1MbPOebTwRqcT5RDeI=
 github.com/xdg-go/scram v1.1.2 h1:FHX5I5B4i4hKRVRBCFRxq1iQRej7WO3hhBuJf+UUySY=
@@ -68,3 +74,5 @@ google.golang.org/protobuf v1.26.0-rc.1/go.mod h1:jlhhOSvTdKEhbULTjvd4ARK9grFBp0
 google.golang.org/protobuf v1.26.0/go.mod h1:9q0QmTI4eRPtz6boOQmLYwt+qCgq0jsYwAQnmE0givc=
 google.golang.org/protobuf v1.30.0 h1:kPPoIgf3TsEvrm0PFe15JQ+570QVxYzEvvHqChK+cng=
 google.golang.org/protobuf v1.30.0/go.mod h1:HV8QOd/L58Z+nl8r43ehVNZIU/HEI6OcFqwMG9pJV4I=
+google.golang.org/protobuf v1.31.0 h1:g0LDEJHgrBl9N9r17Ru3sqWhkIx2NB67okBHPwC7hs8=
+google.golang.org/protobuf v1.31.0/go.mod h1:HV8QOd/L58Z+nl8r43ehVNZIU/HEI6OcFqwMG9pJV4I=
